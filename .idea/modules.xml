@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdsJavaAulas/AdsJavaAulas.iml" filepath="$PROJECT_DIR$/AdsJavaAulas/AdsJavaAulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaExercicios/EstruturaSequencial/EstruturaSequencial.iml" filepath="$PROJECT_DIR$/ListaExercicios/EstruturaSequencial/EstruturaSequencial.iml" />
       <module fileurl="file://$PROJECT_DIR$/Faculdade/Faculdade.iml" filepath="$PROJECT_DIR$/Faculdade/Faculdade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fundamentos/Fundamentos.iml" filepath="$PROJECT_DIR$/Fundamentos/Fundamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaExercicios/ListaExercicios.iml" filepath="$PROJECT_DIR$/ListaExercicios/ListaExercicios.iml" />
     </modules>
   </component>
 </project>
