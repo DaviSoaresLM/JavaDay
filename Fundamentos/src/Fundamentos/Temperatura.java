@@ -15,6 +15,5 @@ public class Temperatura {
         C = Math.round(C * 100.0) / 100.0;
 
         System.out.println("A temperatura " + F + "°F convertida em Celsius é: " + C + "°C");
-
     }
 }

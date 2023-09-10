@@ -1,5 +1,5 @@
 //Faça um Programa que peça dois números e imprima a soma
-package EstruturaSequencial;
+
 import java.util.Scanner;
 public class Q03 {
     public static void main(String[] args) {

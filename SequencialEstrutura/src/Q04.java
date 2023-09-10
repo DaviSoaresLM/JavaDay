@@ -1,5 +1,5 @@
 //Faça um Programa que peça as 4 notas bimestrais e mostre a média
-package EstruturaSequencial;
+
 import java.util.Scanner;
 
 public class Q04 {
