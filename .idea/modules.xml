@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/AdsJavaAulas/AdsJavaAulas.iml" filepath="$PROJECT_DIR$/AdsJavaAulas/AdsJavaAulas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Faculdade/Faculdade.iml" filepath="$PROJECT_DIR$/Faculdade/Faculdade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fundamentos/Fundamentos.iml" filepath="$PROJECT_DIR$/Fundamentos/Fundamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceGrafica/InterfaceGrafica.iml" filepath="$PROJECT_DIR$/InterfaceGrafica/InterfaceGrafica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaDay.iml" filepath="$PROJECT_DIR$/.idea/JavaDay.iml" />
       <module fileurl="file://$PROJECT_DIR$/SequencialEstrutura/SequencialEstrutura.iml" filepath="$PROJECT_DIR$/SequencialEstrutura/SequencialEstrutura.iml" />
     </modules>
   </component>
